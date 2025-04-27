@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I'm Kara!
 
-<!--
-**KaradactylD/KaradactylD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student passionate about coding, collaboration, and creating impactful projects. Currently studying at Spartanburg Community College, I’m excited to join Clemson University in Fall 2025 to pursue my BA in Computer Science!
 
-Here are some ideas to get you started:
+🚀 About Me
+🌱 Learning lots of stuff... 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Open to collaborate on open-source projects, web apps, or fun coding challenges
+
+📫 Reach me at: karancrumpton@gmail.com
+
+💼 Seeking internship opportunities in software development
+
+⚡ Fun fact: I’m fueled by Red Bull and obsessed with horror movies! 🎃
+
+## 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaradactylD&show_icons=true&theme=radical)
+
+## 📌 Pinned Projects
+Check out my work below!
