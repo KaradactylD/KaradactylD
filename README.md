@@ -26,7 +26,7 @@ A spine-chilling slot machine game with a Friday the 13th theme, built in C# usi
 ⭐ Spin the reels for a horror-filled thrill! 
 
 Fairy Game:
-A magical Java-based arcade game where a fairy collects colorful flowers (purple, pink, orange, blue, red) for points in an enchanted forest. Features dynamic flower spawning (red flowers are rare!), a pulsing mushroom glow, and a retro 90s-inspired aesthetic. Built with Java and Swing for smooth gameplay.
+A magical Java-based arcade game where a fairy collects colorful flowers (purple, pink, orange, blue, red) for points in an enchanted forest. Features dynamic flower spawning (red flowers are rare!), a pulsing mushroom glow, and a retro 90s-inspired aesthetic. Built with Java.
 ⭐ Flutter through the forest and rack up points! 
 
 ## 📊 Stats
