@@ -3,6 +3,7 @@
 I'm a Computer Science student passionate about coding, collaboration, and creating impactful projects. Currently studying at Spartanburg Community College, I’m excited to join Clemson University in Fall 2025 to pursue my BA in Computer Science!
 
 🚀 About Me
+
 🌱 Learning lots of stuff... 
 
 👯 Open to collaborate on open-source projects, web apps, or fun coding challenges
