@@ -17,5 +17,3 @@ I'm a Computer Science student passionate about coding, collaboration, and creat
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaradactylD&show_icons=true&theme=radical)
 
-## 📌 Pinned Projects
-Check out my work below!
